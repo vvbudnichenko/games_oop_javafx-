@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/chess/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/chess/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/packman/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/packman/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/puzzle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/puzzle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/seabattle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/seabattle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/snake/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/snake/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/tetris/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/tetris/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/tictactoe/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/games_oop_javafx-master/tictactoe/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
